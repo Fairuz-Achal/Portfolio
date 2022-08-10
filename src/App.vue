@@ -26,7 +26,7 @@
                             </v-chip>
                             <v-chip class="px-4 ma-3" color="dark">
                                 <v-icon left size="20">mdi-github</v-icon>
-                                Linkedin
+                                Github
                             </v-chip>
                         </v-row>
                     </v-col>
